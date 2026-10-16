@@ -1,5 +1,7 @@
 # Grounded DI - BriefWise 89/89 Overfitting Dicta / Legora Benchmark (Public Review Encouraged) 
 
+# Benchmark link: https://overfittingdicta.com
+
 # Freshworks FY2023 Master File — BriefWise DI² original-mission review
 
 **Reviewed result: 89/89 applicable review-weight points = 100% substantive completion of the original mission, with a minor drafting reservation.**
