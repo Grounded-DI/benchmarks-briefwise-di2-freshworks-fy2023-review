@@ -14,8 +14,14 @@ The result uses weighted points. It does not mean that 89 independently counted 
 
 1. [Provisional benchmark certificate](Freshworks%20FY2023%20Provisional%20Benchmark%20Certificate.pdf) — the result, checkpoint ledger, denominator disclosure, reservation, and evidence binding.
 2. [Original-mission review](Freshworks%20FY2023%20original%20mission%20review.md) — the full assessment, exclusion register, source corrections, and criterion-level decisions.
-3. [Scoring evidence](Freshworks%20FY2023%20original%20mission%20review.json) — the machine-readable weights, scope classifications, evidence references, and decisions.
-4. [Completed Master File](Freshworks%20Group%20Master%20File%20%E2%80%94%20FY2023.pdf) — the document assessed.
+3. [Later-v2 grade](freshworks_deterministic_grade.md) — the separate 89.75/100 assessment; it uses a different scope and denominator from the 89/89 original-mission review.
+4. [Later-v2 scoring specification](benchmark_spec.json) and [benchmark change log](benchmark_change_log.md) — the published scoring framework and its history; the specification is not the missing original-mission review JSON.
+
+## Unpublished evidence and reservation
+
+`Freshworks FY2023 original mission review.json` and `Freshworks Group Master File — FY2023.pdf` are not published in the current repository. The reviewed Master File DOCX and the underlying matter inputs referenced by the assessment are also not published here. The published Markdown review provides the original-mission criterion-level assessment, but is not a substitute for the missing machine-readable review or the assessed document.
+
+The certificate and review retain a minor drafting reservation: Section 6 wording suggests supporting Local Files were provided, but their delivery is not established. This is a provisional internal assessment, not an official benchmark-operator result or independent certification. The absence of public files does not establish that the underlying work was never performed; whether they were intentionally withheld is not established by this repository. This navigation repair does not reconstruct or publish missing evidence.
 
 ## What 89/89 means
 
