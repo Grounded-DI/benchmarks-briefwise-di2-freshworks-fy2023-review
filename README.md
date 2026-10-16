@@ -33,3 +33,11 @@ The original-mission review assessed whether the deliverable satisfied the retai
 The review documents each exclusion individually. Required substantive duties remain tested in the retained requirements. No material prohibited assertion was identified, and no guardrail penalty was applied.
 
 The denominator was reconstructed after the deliverable existed. It was not an original published benchmark denominator, an official historical benchmark score, or a blinded or prospective evaluation. The 11 excluded points do not mean that eleven points of the original benchmark were proven impossible.
+
+## Central benchmark collection
+
+[Browse Grounded DI's benchmark and evaluation index](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/blob/main/BENCHMARK_INDEX.md).
+
+- [Preserved collection: overfitting-dicta-freshworks](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/tree/main/benchmarks/overfitting-dicta-freshworks)
+
+The central entry preserves the distinction between 89/89 applicable original-mission review-weight points and the separate 89.75/100 later-v2 grade, together with the denominator disclosures, reservation, and missing public-source materials. This repository remains the canonical source for its own history and later corrections; the central collection is a dated public snapshot.
