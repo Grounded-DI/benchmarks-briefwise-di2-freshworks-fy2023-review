@@ -14,8 +14,7 @@ The result uses weighted points. It does not mean that 89 independently counted 
 
 1. [Provisional benchmark certificate](Freshworks%20FY2023%20Provisional%20Benchmark%20Certificate.pdf) — the result, checkpoint ledger, denominator disclosure, reservation, and evidence binding.
 2. [Original-mission review](Freshworks%20FY2023%20original%20mission%20review.md) — the full assessment, exclusion register, source corrections, and criterion-level decisions.
-3. [Later-v2 grade](freshworks_deterministic_grade.md) — the separate 89.75/100 assessment; it uses a different scope and denominator from the 89/89 original-mission review.
-4. [Later-v2 scoring specification](benchmark_spec.json) and [benchmark change log](benchmark_change_log.md) — the published scoring framework and its history; the specification is not the missing original-mission review JSON.
+3. [Later-v2 scoring specification](benchmark_spec.json) and [benchmark change log](benchmark_change_log.md) — the published scoring framework and its history; the specification is not the missing original-mission review JSON.
 
 ## Unpublished evidence and reservation
 
@@ -46,4 +45,4 @@ The denominator was reconstructed after the deliverable existed. It was not an o
 
 - [Preserved collection: overfitting-dicta-freshworks](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/tree/main/benchmarks/overfitting-dicta-freshworks)
 
-The central entry preserves the distinction between 89/89 applicable original-mission review-weight points and the separate 89.75/100 later-v2 grade, together with the denominator disclosures, reservation, and missing public-source materials. This repository remains the canonical source for its own history and later corrections; the central collection is a dated public snapshot.
+The central entry records the 89/89 applicable original-mission review-weight result, together with the denominator disclosures, reservation, and missing public-source materials. This repository remains the canonical source for its own history and later corrections; the central collection is a dated public snapshot.
