@@ -46,3 +46,8 @@ The denominator was reconstructed after the deliverable existed. It was not an o
 - [Preserved collection: overfitting-dicta-freshworks](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/tree/main/benchmarks/overfitting-dicta-freshworks)
 
 The central entry records the 89/89 applicable original-mission review-weight result, together with the denominator disclosures, reservation, and missing public-source materials. This repository remains the canonical source for its own history and later corrections; the central collection is a dated public snapshot.
+
+
+## Machine-readable PDF companion
+
+- [Freshworks FY2023 provisional benchmark certificate — text](Freshworks%20FY2023%20Provisional%20Benchmark%20Certificate.md) · [source PDF](Freshworks%20FY2023%20Provisional%20Benchmark%20Certificate.pdf)
